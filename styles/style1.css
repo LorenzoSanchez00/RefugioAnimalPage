@@ -60,7 +60,7 @@ img{
 /*Imagen Inicial*/
 .imgInicio{
     display: flex;
-    background-image: url("/resources/img/banner.jpg");
+    background-image: url("../resources/img/banner.jpg");
     height: 400px;
     justify-content: right;
     align-items: center;
